@@ -26,16 +26,3 @@ function dividir(numero1, numero2) {
 
 dividir(7,14)
 
-
-// function resultado (numero1, numero2) {
-//     let soma = numero1 + numero2;
-//         console.log ('A soma de ' + numero1 + ' + ' + numero2 + ' é igual a ' + soma)
-//     let subtracao = numero1 - numero2;
-//         console.log ('A subtração de ' + numero1 + ' - ' + numero2 + ' é igual a ' + subtracao)
-//     let multiplicacao = numero1 * numero2;
-//         console.log('A multiplicação de ' + numero1 + ' * '+ numero2 + ' é igual a ' + multiplicacao)
-//     let divisao = numero1 / numero2;
-//         console.log('A divisão de ' + numero1 + ' / ' + numero2 + ' é igual a ' + divisao)
-// }
-
-// resultado(2,3)
